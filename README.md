@@ -19,6 +19,7 @@ Screens:
 
 Strikeball chronograph, based on Arduino Nano with I2C 128x64 OLED display (Adafruit_SSD1306)
 Used for measuring BB's speed.
+Powered from Arduino's USB.
 
 Details needed:
 - Arduino Nano
