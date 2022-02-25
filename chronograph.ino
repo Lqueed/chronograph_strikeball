@@ -205,17 +205,6 @@ void updateScreen() {
   }
 }
 
-// пока рандом, потом - показания с датчиков
-void addOne() {
-  counter += 1;
-  if (shots < 5) {
-    shots += 1;
-  }
-  if (counter >= 5) {
-    counter = 0;
-  }
-}
-
 // экран скорострельности
 void showRapid() {  
   display.clearDisplay();
