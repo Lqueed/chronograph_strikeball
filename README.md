@@ -32,3 +32,4 @@ Details needed:
 All hardware tuning is described on the original source: https://alexgyver.ru/chron_2/
 
 Assembly scheme:
+![Chronograph](https://user-images.githubusercontent.com/26312490/155751700-0b530ed1-0a99-43a8-bd54-fac3118c9c04.png)
