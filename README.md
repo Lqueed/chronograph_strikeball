@@ -3,7 +3,7 @@ Easy-made strikeball chronograph based on Adruino
 
 ALL RIGHT FOR ORIGINAL IDEA BELONGS TO AlexGyver https://alexgyver.ru
 https://github.com/AlexGyver/
-This is sort-of a fork of his project with different components and different functions, with better controls.
+This is sort-of a fork of his project with different components and functions, with better controls.
 Differences:
 - 4-button control ("menu", "reset", "+", "-")
 - OLED-display
